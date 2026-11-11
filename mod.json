@@ -1,0 +1,17 @@
+{
+	"geode": "5.11.2",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "helloworld1246.utils",
+	"name": "helloworld1246's utils",
+	"version": "v1.0.0",
+	"developer": "helloworld1246",
+	"description": "Pause menu cheat GUI. Gameplay section: auto swift clicks, noclip, autoclickers and more.",
+	"resources": {
+		"sprites": ["resources/*.png"]
+	}
+}
